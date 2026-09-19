@@ -55,3 +55,8 @@ communication, privacy controls and secure data storage.
 The architecture can be scaled using cloud services,
 stateless backend APIs, caching, real-time services and
 separate AI services.
+
+
+## Architecture Diagram
+
+![FitFlow High-Level Architecture](fitflow-architecture.png)
